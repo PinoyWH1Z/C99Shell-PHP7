@@ -1,5 +1,6 @@
 # C99Shell-PHP7
 PHP 7 and safe-build Update of the popular C99 variant of PHP Shell.
+c99shell.php v.2.0 (PHP 7) (25.02.2019) Updated by: KaizenLouie for PHP 7
 
 # About C99Shell
 An excellent example of a web shell is the c99 variant, which is a PHP shell (most of them calls it malware) often uploaded to a vulnerable web application to give hackers an interface. The c99 shell lets the attacker take control of the processes of the Internet server, allowing him or her give commands on the server as the account under which the threat is operating. It lets the hacker upload, browse the file system, edit and view files, in addition, to deleting, moving them and changing permissions. Finding a c99 shell is an excellent way to identify a compromise on a system. The c99 shell is about 1500 lines long if packed and 4900+ if properly displayed, and some of its traits include showing security measures the web server may use, a file viewer that has permissions, a place where the attacker can operate custom PHP code (PHP malware c99 shell).
