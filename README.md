@@ -46,3 +46,6 @@ Since you can see the codes in my re-released project, you can read all througho
 
 # Disclaimer:
 I will NOT be held responsible for any unethical use of this hacking tool.
+
+# Preview:
+![Demo 01 Prev SS](/Screenshots/demo_01.png)
