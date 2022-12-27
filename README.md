@@ -49,3 +49,6 @@ I will NOT be held responsible for any unethical use of this hacking tool.
 
 # Preview:
 ![Demo 01 Prev SS](/Screenshots/demo_01.png)
+
+# Official Release: 
+[c99shell_v2.0.zip](https://github.com/PinoyWH1Z/C99Shell-PHP7/releases/download/v2.0.0/c99shell_v2.0.zip) (`Zip Password: PinoyWH1Z`)
